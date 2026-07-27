@@ -56,7 +56,6 @@ I'm **Moni Kaur**, a B.Tech CS-AI student who loves turning ideas into interacti
 
 | Repository | Description |
 |---|---|
-| 📁 **firstrepository** | My first GitHub repository |
 | 💻 **cpp-code** | C++ code I practice while learning the language |
 | 🧠 **oops-code** | Object-Oriented Programming concepts in C++ |
 | 🐍 **snake-game-cpp** | Classic Snake game built in C++ |
