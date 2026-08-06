@@ -1,82 +1,202 @@
-<div align="center">
-# Hey, I'm Moni Kaur 👋
- 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A8B8&center=true&vCenter=true&width=650&lines=Aspiring+Full+Stack+Developer;CS-AI+Student+%7C+B.Tech;MERN+Stack+%7C+MongoDB+%2F+Express+%2F+React+%2F+Node;C%2B%2B+%26+DSA+Enthusiast" alt="Typing SVG" />
-<br>
-<img src="https://komarev.com/ghpvc/?username=kaurmoni0013&label=Profile%20Views&color=d9739f&style=for-the-badge" alt="Profile views" />
-</div>
-<br>
-## 👩‍💻 About Me
- 
-I'm a B.Tech CS-AI student working toward becoming a **Full Stack Developer**.
- 
-- 🌱 Learned the **MERN stack** (MongoDB, Express.js, React, Node.js) and working on **SQL**
-- 🧠 Practicing **C++, Java, and DSA** to sharpen problem-solving
-- 🚀 Currently building **React** projects and a **major full-stack project**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kaurmoni0013)
-<br>
-## 🧰 Tech Stack
- 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,cpp,java,git,github,vscode" alt="Tech stack icons" />
-</div>
-<br>
-## 🏆 Certifications
- 
-- 🥈 NPTEL — Programming in Java (Silver)
-- 🥈 NPTEL — Object Oriented Programming (Silver)
-- 🏅 NPTEL — Programming in C++ (Elite)
-- ✅ NPTEL — Data Structures & Algorithms (Completed)
-<br>
-## 💻 Coding Profiles
- 
-<div align="center">
-<a href="https://leetcode.com/kaurmoni0013" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+<h1 align="center">Hi 👋, I'm Moni Kaur</h1>
+
+<h3 align="center">
+Aspiring Software Engineer | B.Tech CS (AI) | MERN Stack Developer | DSA Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Science+(AI)+Student;Aspiring+Software+Engineer;MERN+Stack+Developer;Data+Structures+%26+Algorithms;Building+Projects+%26+Learning+Everyday+🚀"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kaurmoni0013">
+    <img src="https://komarev.com/ghpvc/?username=kaurmoni0013&label=Profile%20Views&color=0e75b6&style=flat"/>
+  </a>
+</p>
+
+---
+
+# 👩‍💻 About Me
+
+🎓 **B.Tech in Computer Science (Artificial Intelligence)**
+
+💙 Passionate about **Software Engineering, Full Stack Development and AI**
+
+🌱 Currently learning **MERN Stack, Backend Development, SQL & System Design**
+
+📚 Solving **Data Structures & Algorithms** consistently
+
+🚀 Love building projects that solve real-world problems
+
+🎯 Looking for **Software Engineering Internship Opportunities**
+
+---
+
+# 🚀 Current Focus
+
+- 💻 MERN Stack Development
+- 🧠 Data Structures & Algorithms
+- 🗄 Database Design
+- ⚡ Backend Development
+- 🤖 Artificial Intelligence
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| 🌐 Portfolio Website | Personal portfolio showcasing projects and skills | HTML • CSS • JavaScript |
+| 🌦 Weather App | Real-time weather application using API | HTML • CSS • JavaScript |
+| 🎮 Tic Tac Toe | Interactive browser-based game | HTML • CSS • JavaScript |
+| 🌌 Solar System Animation | CSS animation project | HTML • CSS |
+| 💻 Express Learning | REST API practice with Express.js | Node.js • Express |
+| 🚧 MERN Project *(In Progress)* | Full Stack Web Application | MongoDB • Express • React • Node |
+
+---
+
+# 🏆 Certifications
+
+🥇 NPTEL – Programming in C++ (Elite)
+
+🥈 NPTEL – Programming in Java (Silver)
+
+🥈 NPTEL – Object Oriented Programming (Silver)
+
+✅ NPTEL – Data Structures & Algorithms
+
+☁ AWS Cloud & AI Workshop
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kaurmoni0013&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaurmoni0013&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kaurmoni0013&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+✅ Master MERN Stack
+
+✅ Solve 500+ DSA Problems
+
+✅ Build Production-Level Projects
+
+✅ Contribute to Open Source
+
+✅ Secure a Software Engineering Internship
+
+---
+
+# 🌱 Currently Learning
+
+- MERN Stack
+- Express.js
+- MongoDB
+- SQL
+- REST APIs
+- Backend Development
+- System Design Fundamentals
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="YOUR_LEETCODE_LINK">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
-<a href="https://www.geeksforgeeks.org/user/kaurmoni0013" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+
+<a href="YOUR_GFG_LINK">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
-<a href="https://codolio.com/profile/kaurmoni0013" target="_blank">
-  <img src="https://img.shields.io/badge/Codolio-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" />
+
+<a href="YOUR_CODOLIO_LINK">
+<img src="https://img.shields.io/badge/Codolio-6A5ACD?style=for-the-badge"/>
 </a>
-<br><br>
- 
-<img src="https://leetcard.jacoblin.cool/kaurmoni0013?theme=dark&font=Karla" alt="LeetCode Stats" />
-</div>
-<br>
-## 🚀 Projects
- 
-| Project | Tech Used | Live Demo | Source |
-|---|---|---|---|
-| 🎨 Personal Portfolio | HTML, CSS, JS | [Live](your-live-link-here) | [Repo](your-repo-link-here) |
-| ❌⭕ Tic-Tac-Toe | HTML, CSS, JS | [Live](your-live-link-here) | [Repo](https://github.com/kaurmoni0013/tic-tac-toe-javascript) |
-| 💌 Love Calculator | HTML, CSS, JS | [Live](your-live-link-here) | [Repo](https://github.com/kaurmoni0013/Love-Calculator) |
-| 📝 Random Quote Generator | HTML, CSS, JS | [Live](your-live-link-here) | [Repo](https://github.com/kaurmoni0013/Random-Quote-Generator) |
-| 🌌 Animated Solar System | HTML, CSS, JS | [Live](your-live-link-here) | [Repo](https://github.com/kaurmoni0013/Solar-System) |
-| 🛠️ Major Project *(in progress)* | MongoDB, Express, React, Node | — | Coming soon |
- 
-<br>
-## 📊 GitHub Stats
- 
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kaurmoni0013">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kaurmoni0013&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaurmoni0013&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaurmoni0013&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+## ⭐ Thanks for visiting my profile!
+
+### *"Code • Learn • Build • Repeat"* 🚀
+
+If you like my work, don't forget to ⭐ my repositories.
+
 </div>
-<br>
-## 🤝 Connect With Me
- 
-<div align="center">
-<a href="https://www.linkedin.com/in/kaurmoni0013" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/kaurmoni0013" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<br><br>
- 
-<i>⭐️ Thanks for stopping by!</i>
- 
-</div>
- 
