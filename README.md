@@ -84,7 +84,6 @@ Aspiring Software Engineer | B.Tech CS (AI) | MERN Stack Developer | DSA Enthusi
 | 🌦 Weather App | Real-time weather application using API | HTML • CSS • JavaScript |
 | 🎮 Tic Tac Toe | Interactive browser-based game | HTML • CSS • JavaScript |
 | 🌌 Solar System Animation | CSS animation project | HTML • CSS |
-| 💻 Express Learning | REST API practice with Express.js | Node.js • Express |
 | 🚧 MERN Project *(In Progress)* | Full Stack Web Application | MongoDB • Express • React • Node |
 
 ---
@@ -98,8 +97,6 @@ Aspiring Software Engineer | B.Tech CS (AI) | MERN Stack Developer | DSA Enthusi
 🥈 NPTEL – Object Oriented Programming (Silver)
 
 ✅ NPTEL – Data Structures & Algorithms
-
-☁ AWS Cloud & AI Workshop
 
 ---
 
@@ -151,15 +148,15 @@ Aspiring Software Engineer | B.Tech CS (AI) | MERN Stack Developer | DSA Enthusi
 
 <p align="center">
 
-<a href="YOUR_LEETCODE_LINK">
+<a href="https://leetcode.com/u/kaurmoni0013/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="YOUR_GFG_LINK">
+<a href="[YOUR_GFG_LINK](https://www.geeksforgeeks.org/user/kaurmoni0013/)">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="YOUR_CODOLIO_LINK">
+<a href="[YOUR_CODOLIO_LINK](https://codolio.com/profile/kaurmoni0013)">
 <img src="https://img.shields.io/badge/Codolio-6A5ACD?style=for-the-badge"/>
 </a>
 
@@ -171,15 +168,15 @@ Aspiring Software Engineer | B.Tech CS (AI) | MERN Stack Developer | DSA Enthusi
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="www.linkedin.com/in/kaurmoni0013">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="kaurmoni0013@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href=" https://kaurmoni0013.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
