@@ -84,7 +84,6 @@ Aspiring Software Engineer | B.Tech CS (AI) | MERN Stack Developer | DSA Enthusi
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,aws,nginx"/>
-Currently Learning
 </p>
 
 ---
