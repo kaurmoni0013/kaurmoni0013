@@ -24,6 +24,8 @@ Aspiring Software Engineer | B.Tech CS (AI) | MERN Stack Developer | DSA Enthusi
 
 🌱 Currently learning **MERN Stack, Backend Development, SQL & System Design**
 
+🔐 Also expanding into **Web Development, System Design, Security & DevOps**
+
 📚 Solving **Data Structures & Algorithms** consistently
 
 🚀 Love building projects that solve real-world problems
@@ -38,6 +40,10 @@ Aspiring Software Engineer | B.Tech CS (AI) | MERN Stack Developer | DSA Enthusi
 - 🧠 Data Structures & Algorithms
 - 🗄 Database Design
 - ⚡ Backend Development
+- 🌐 Web Development
+- 🏗 System Design
+- 🔐 Security
+- ⚙️ DevOps *(new)*
 - 🤖 Artificial Intelligence
 
 ---
@@ -72,6 +78,12 @@ Aspiring Software Engineer | B.Tech CS (AI) | MERN Stack Developer | DSA Enthusi
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
+
+### DevOps & Security *(new)*
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,aws,nginx"/>
 </p>
 
 ---
@@ -153,7 +165,10 @@ Aspiring Software Engineer | B.Tech CS (AI) | MERN Stack Developer | DSA Enthusi
 - SQL
 - REST APIs
 - Backend Development
+- Web Development *(new)*
 - System Design Fundamentals
+- Security Fundamentals *(new)*
+- DevOps — Docker, Linux, CI/CD, Cloud Basics *(new)*
 
 ---
 
