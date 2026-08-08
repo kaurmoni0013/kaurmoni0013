@@ -78,13 +78,26 @@ Aspiring Software Engineer | B.Tech CS (AI) | MERN Stack Developer | DSA Enthusi
 
 # 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|----------|-------------|------------|
-| 🌐 Portfolio Website | Personal portfolio showcasing projects and skills | HTML • CSS • JavaScript |
-| 🌦 Weather App | Real-time weather application using API | HTML • CSS • JavaScript |
-| 🎮 Tic Tac Toe | Interactive browser-based game | HTML • CSS • JavaScript |
-| 🌌 Solar System Animation | CSS animation project | HTML • CSS |
-| 🚧 MERN Project *(In Progress)* | Full Stack Web Application | MongoDB • Express • React • Node |
+| Project | Description | Tech Stack | Live Demo | Source |
+|---|---|---|---|---|
+| 🌐 Portfolio | Personal portfolio showcasing my projects and skills | HTML • CSS • JS | [View](https://kaurmoni0013.github.io/Portfolio/) | [Repo](https://github.com/kaurmoni0013/Portfolio) |
+| 💘 Love Calculator | A fun love-percentage calculator with a polished UI | HTML • CSS • JS | [View](https://kaurmoni0013.github.io/Love-Calculator/) | [Repo](https://github.com/kaurmoni0013/Love-Calculator) |
+| 💬 Random Quote Generator | Fetches and displays quotes via API integration | HTML • CSS • JS | [View](https://kaurmoni0013.github.io/Random-Quote-Generator/) | [Repo](https://github.com/kaurmoni0013/Random-Quote-Generator) |
+| 🎮 Tic Tac Toe | Two-player game with winner detection and a responsive UI | HTML • CSS • JS | [View](https://kaurmoni0013.github.io/tic-tac-toe-javascript/) | [Repo](https://github.com/kaurmoni0013/tic-tac-toe-javascript) |
+| 🌌 Solar System Animation | Animated model of the solar system built with pure CSS | HTML • CSS | [View](https://kaurmoni0013.github.io/Solar-System/) | [Repo](https://github.com/kaurmoni0013/Solar-System) |
+
+> 🚧 MERN full-stack project currently in progress — will be added here once deployed.
+
+---
+
+# 🧠 DSA & Practice Repositories
+
+| Repository | Focus | Link |
+|---|---|---|
+| dsa-cpp | Data Structures & Algorithms practice in C++ | [Repo](https://github.com/kaurmoni0013/dsa-cpp) |
+| cpp-code | Core C++ practice while learning the language | [Repo](https://github.com/kaurmoni0013/cpp-code) |
+| oops-code | Object-Oriented Programming concepts in C++ | [Repo](https://github.com/kaurmoni0013/oops-code) |
+| snake-game-cpp | Classic Snake game built in C++ | [Repo](https://github.com/kaurmoni0013/snake-game-cpp) |
 
 ---
 
@@ -152,11 +165,11 @@ Aspiring Software Engineer | B.Tech CS (AI) | MERN Stack Developer | DSA Enthusi
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="[YOUR_GFG_LINK](https://www.geeksforgeeks.org/user/kaurmoni0013/)">
+<a href="https://www.geeksforgeeks.org/user/kaurmoni0013/">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="[YOUR_CODOLIO_LINK](https://codolio.com/profile/kaurmoni0013)">
+<a href="https://codolio.com/profile/kaurmoni0013">
 <img src="https://img.shields.io/badge/Codolio-6A5ACD?style=for-the-badge"/>
 </a>
 
@@ -168,15 +181,15 @@ Aspiring Software Engineer | B.Tech CS (AI) | MERN Stack Developer | DSA Enthusi
 
 <p align="center">
 
-<a href="www.linkedin.com/in/kaurmoni0013">
+<a href="https://www.linkedin.com/in/kaurmoni0013">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="kaurmoni0013@gmail.com">
+<a href="mailto:kaurmoni0013@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href=" https://kaurmoni0013.github.io/Portfolio/">
+<a href="https://kaurmoni0013.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
