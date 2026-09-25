@@ -1,227 +1,149 @@
-<h1 align="center">Hi 👋, I'm Moni Kaur</h1>
+<div align="center">
 
-<h3 align="center">
-Aspiring Software Engineer | B.Tech CS (AI) | MERN Stack Developer | DSA Enthusiast
-</h3>
+# Hi 👋, I'm Moni Kaur
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Science+(AI)+Student;Aspiring+Software+Engineer;MERN+Stack+Developer;Data+Structures+%26+Algorithms;Building+Projects+%26+Learning+Everyday+🚀"/>
-</p>
+**Computer Science & Artificial Intelligence undergraduate building full-stack and backend systems with the MERN stack.**
 
-<p align="center">
-  <a href="https://github.com/kaurmoni0013">
-    <img src="https://komarev.com/ghpvc/?username=kaurmoni0013&label=Profile%20Views&color=0e75b6&style=flat"/>
-  </a>
-</p>
+B.Tech CSE & AI · Class of 2028 · CGPA 9.4/10
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kaurmoni0013)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaurmoni0013)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/kaurmoni0013/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/kaurmoni0013/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-161b22?style=flat-square&logo=github&logoColor=white)](https://kaurmoni0013.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kaurmoni0013@gmail.com)
 
-# 👩‍💻 About Me
-
-🎓 **B.Tech in Computer Science (Artificial Intelligence)**
-
-💙 Passionate about **Software Engineering, Full Stack Development and AI**
-
-🌱 Currently learning **MERN Stack, Backend Development, SQL & System Design**
-
-🔐 Also expanding into **Web Development, System Design, Security & DevOps**
-
-📚 Solving **Data Structures & Algorithms** consistently
-
-🚀 Love building projects that solve real-world problems
-
-🎯 Looking for **Software Engineering Internship Opportunities**
+</div>
 
 ---
 
-# 🚀 Current Focus
+## About
 
-- 💻 MERN Stack Development
-- 🧠 Data Structures & Algorithms
-- 🗄 Database Design
-- ⚡ Backend Development
-- 🌐 Web Development
-- 🏗 System Design
-- 🔐 Security
-- ⚙️ DevOps *(new)*
-- 🤖 Artificial Intelligence
+I'm a B.Tech Computer Science & AI undergraduate (2028) who works mostly in C++ and the MERN stack. What I care about is the part of a web app that's hard to fake: concurrent writes, states that can't be reached illegally, authentication that fails closed, and cost control when a third-party API sits in the request path.
+
+Two full-stack products so far — a clinic appointment system and an AI conversation workspace — both with real auth, real persistence, and CI that runs an end-to-end suite on every push. Right now I'm building projects and closing gaps in my software engineering fundamentals: testing, system design, and deployment.
 
 ---
 
-# 🛠 Tech Stack
+## What I'm Working On
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
-
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-</p>
-
-### DevOps & Security *(new)*
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,aws,nginx"/>
-</p>
+- **MERN full-stack development** — React SPAs on a Node/Express API, React Query for server state
+- **Backend engineering** — REST APIs, JWT auth with server-side session revocation, SSE streaming
+- **Redis** — rate limiting, token quotas, atomic reservations, short-lived locks
+- **Authentication & authorization** — role-based access control, per-record ownership checks
+- **DSA in C++** — daily practice, mostly arrays, strings, trees, graphs and DP
+- **AI API integration** — OpenRouter, streaming, retry and timeout handling, usage accounting
+- **Docker & deployment** — Compose stacks, single-origin images, Render blueprints
+- **System design fundamentals** — state machines, indexes, transactions, consistency
 
 ---
 
-# 🚀 Featured Projects
+## Tech Stack
 
-| Project | Description | Tech Stack | Live Demo | Source |
-|---|---|---|---|---|
-| 🌐 Portfolio | Personal portfolio showcasing my projects and skills | HTML • CSS • JS | [View](https://kaurmoni0013.github.io/Portfolio/) | [Repo](https://github.com/kaurmoni0013/Portfolio) |
-| 💘 Love Calculator | A fun love-percentage calculator with a polished UI | HTML • CSS • JS | [View](https://kaurmoni0013.github.io/Love-Calculator/) | [Repo](https://github.com/kaurmoni0013/Love-Calculator) |
-| 💬 Random Quote Generator | Fetches and displays quotes via API integration | HTML • CSS • JS | [View](https://kaurmoni0013.github.io/Random-Quote-Generator/) | [Repo](https://github.com/kaurmoni0013/Random-Quote-Generator) |
-| 🎮 Tic Tac Toe | Two-player game with winner detection and a responsive UI | HTML • CSS • JS | [View](https://kaurmoni0013.github.io/tic-tac-toe-javascript/) | [Repo](https://github.com/kaurmoni0013/tic-tac-toe-javascript) |
-| 🌌 Solar System Animation | Animated model of the solar system built with pure CSS | HTML • CSS | [View](https://kaurmoni0013.github.io/Solar-System/) | [Repo](https://github.com/kaurmoni0013/Solar-System) |
-
-> 🚧 MERN full-stack project currently in progress — will be added here once deployed.
-
----
-
-# 🧠 DSA & Practice Repositories
-
-| Repository | Focus | Link |
-|---|---|---|
-| dsa-cpp | Data Structures & Algorithms practice in C++ | [Repo](https://github.com/kaurmoni0013/dsa-cpp) |
-| cpp-code | Core C++ practice while learning the language | [Repo](https://github.com/kaurmoni0013/cpp-code) |
-| oops-code | Object-Oriented Programming concepts in C++ | [Repo](https://github.com/kaurmoni0013/oops-code) |
-| snake-game-cpp | Classic Snake game built in C++ | [Repo](https://github.com/kaurmoni0013/snake-game-cpp) |
+| Area | |
+|:--|:--|
+| **Languages** | ![](https://skillicons.dev/icons?i=cpp,java,js,html,css) `SQL` |
+| **Frontend** | ![](https://skillicons.dev/icons?i=react) `React Query` |
+| **Backend** | ![](https://skillicons.dev/icons?i=nodejs,express) `REST APIs` · `JWT` · `Server-Sent Events` |
+| **Databases** | ![](https://skillicons.dev/icons?i=mongodb,redis) `Mongoose` |
+| **AI / APIs** | `OpenRouter` |
+| **Tools** | ![](https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode) |
 
 ---
 
-# 🏆 Certifications
+## Featured Projects
 
-🥇 NPTEL – Programming in C++ (Elite)
+### MediQueue
 
-🥈 NPTEL – Programming in Java (Silver)
+**Clinic Appointment & Queue Management System** · MERN
 
-🥈 NPTEL – Object Oriented Programming (Silver)
+A MERN application that replaces a small clinic's paper register with appointment booking, a live patient queue, and wait-time estimates, split across four role-specific portals. Every rule — slot conflicts, who may transition an appointment, who may read a consultation — is enforced on the server rather than in the UI.
 
-✅ NPTEL – Data Structures & Algorithms
+`MERN` `MongoDB` `Mongoose` `React` `React Query` `Node.js` `Express` `JWT` `Vite`
 
----
+[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kaurmoni0013/MediQueue)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-2ea44f?style=flat-square&logo=render&logoColor=white)](https://mediqueue-1cu4.onrender.com/login)
 
-# 📊 GitHub Statistics
+**Engineering highlights**
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kaurmoni0013&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaurmoni0013&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kaurmoni0013&theme=tokyonight&hide_border=true"/>
-
-</p>
+- **Race-safe booking** — slots are re-verified at booking time *and* protected by a partial unique index on `(doctor, date, startTime)` scoped to active statuses, so two patients can never hold the same slot even under simultaneous requests
+- **Appointment state machine** — `SCHEDULED → WAITING → IN_CONSULT → COMPLETED` (plus `CANCELLED`) with actor rules per transition; illegal moves return a machine-readable `409` code instead of a generic error
+- **Queue as a view, not a table** — position and ETA are derived on read from active appointments, so they can't drift out of sync with the database
+- **RBAC enforced twice** — client-side route guards *and* server middleware, backed by per-record ownership checks so a patient can't open someone else's visit
+- **JWT session revocation** — signing out bumps a per-user token version, immediately invalidating every token previously issued to that user
+- **Hardened by default** — bcrypt, `helmet`, global and auth-scoped rate limits, centralized error mapping with no stack-trace leaks, and a production boot that refuses to run on the default JWT secret
+- **Verified continuously** — 67/67 end-to-end API checks covering auth, role guards, the status machine, rate limits, revocation and slot conflicts, run on every push against a real MongoDB service container
 
 ---
 
-# 🎯 2026 Goals
+### Orbit AI
 
-✅ Master MERN Stack
+**Full-Stack AI Conversation Workspace** · MERN + Redis
 
-✅ Solve 500+ DSA Problems
+An AI chat workspace built for sustained use rather than one-off prompts: persistent conversations with bounded context and rolling summaries, streaming responses, and a usage model that can't be overrun. Redis handles coordination — atomic token reservations, quota windows and locks — while MongoDB transactions keep paired messages and usage totals consistent.
 
-✅ Build Production-Level Projects
+`React` `Node.js` `Express` `MongoDB` `Redis` `OpenRouter` `SSE` `JWT` `Docker`
 
-✅ Contribute to Open Source
+[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kaurmoni0013/Orbit-AI)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-2ea44f?style=flat-square&logo=render&logoColor=white)](https://orbit-ai-k1m5.onrender.com)
 
-✅ Secure a Software Engineering Internship
+**Engineering highlights**
 
----
-
-# 🌱 Currently Learning
-
-- MERN Stack
-- Express.js
-- MongoDB
-- SQL
-- REST APIs
-- Backend Development
-- Web Development *(new)*
-- System Design Fundamentals
-- Security Fundamentals *(new)*
-- DevOps — Docker, Linux, CI/CD, Cloud Basics *(new)*
+- **Streaming that fails safely** — Server-Sent Events with first-byte and idle timeouts, bounded retries on transient provider errors, and provider requests aborted when the client disconnects
+- **Atomic quota reservations** — Redis reserves a token window *before* the provider call and reconciles it against real usage afterwards; reservations are released on failure, so quota is never double-charged
+- **Idempotent retries** — an `x-idempotency-key` replays a completed response from the database instead of calling the provider and billing usage a second time
+- **Concurrency locks** — short-lived Redis locks stop duplicate summary jobs when a conversation crosses its summarization threshold
+- **Transactional persistence** — the message pair and usage totals are written in a single MongoDB transaction, and only after a stream finishes successfully
+- **Session security** — HttpOnly JWT cookies, bcrypt hashing, session-version invalidation, Redis-backed logout revocation, and one-time password reset that stores only a SHA-256 token hash
+- **Bounded AI integration** — server-side model allowlist, capped message size, a character budget for assembled context, and provider-reported usage recorded rather than estimated
 
 ---
 
-# 💻 Coding Profiles
+### Portfolio
 
-<p align="center">
+**Personal developer portfolio** · HTML · CSS · JavaScript
 
-<a href="https://leetcode.com/u/kaurmoni0013/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+A small static site that collects my projects, certifications and contact links in one place.
 
-<a href="https://www.geeksforgeeks.org/user/kaurmoni0013/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://codolio.com/profile/kaurmoni0013">
-<img src="https://img.shields.io/badge/Codolio-6A5ACD?style=for-the-badge"/>
-</a>
-
-</p>
+[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kaurmoni0013/Portfolio)
+[![Live Site](https://img.shields.io/badge/Live%20Site-2ea44f?style=flat-square&logo=github&logoColor=white)](https://kaurmoni0013.github.io/Portfolio/)
 
 ---
 
-# 📫 Connect With Me
+## Hackathons & Activities
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/kaurmoni0013">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:kaurmoni0013@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://kaurmoni0013.github.io/Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/kaurmoni0013">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
+- **Smart India Hackathon** — *RailQR-Mark*: AI-assisted laser QR track fitting traceability and predictive maintenance for Indian Railways. React + TypeScript frontend, Python FastAPI + SQLAlchemy backend, scikit-learn risk scoring. [Repository](https://github.com/kaurmoni0013/railqr-mark)
+- **HackNexus 2026** — Participant
 
 ---
+
+## Certifications
+
+- NPTEL — Programming in C++ — **Elite**
+- NPTEL — Programming in Java — **Silver**
+- NPTEL — Object-Oriented Programming — **Silver**
+- NPTEL — Data Structures & Algorithms — Completed
+
+---
+
+## DSA & Practice
+
+C++ DSA practice, mostly arrays, strings, trees, graphs and dynamic programming. Notes and problem write-ups live in [`dsa-cpp`](https://github.com/kaurmoni0013/dsa-cpp).
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/kaurmoni0013/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/kaurmoni0013/)
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
-
-### *"Code • Learn • Build • Repeat"* 🚀
-
-If you like my work, don't forget to ⭐ my repositories.
+[![Contribution Streak](https://streak-stats.demolab.com?user=kaurmoni0013&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+
+---
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaurmoni0013) [![Email](https://img.shields.io/badge/kaurmoni0013@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kaurmoni0013@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-161b22?style=flat-square&logo=github&logoColor=white)](https://kaurmoni0013.github.io/Portfolio/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kaurmoni0013)
