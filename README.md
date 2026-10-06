@@ -215,12 +215,14 @@ https://github.com/kaurmoni0013/Orbit-AI
 
 ## 📦 Other Projects
 
-| Project                       | Focus                                                      |
-| ----------------------------- | ---------------------------------------------------------- |
-| 🐍 **Snake Game — C++**       | Console game, collision detection & file-based high scores |
-| 💬 **Random Quote Generator** | Public API integration, loading states & fallback handling |
-| 🌌 **Solar System**           | Interactive CSS animation & orbital simulation             |
-| ❌ **Tic Tac Toe**             | JavaScript game logic & DOM-based state management         |
+| Project | Focus | Links |
+|---|---|---|
+| 🐍 **Snake Game — C++** | Console game, collision detection & file-based high scores | [Repository ↗](https://github.com/kaurmoni0013/snake-game-cpp) |
+| 💬 **Random Quote Generator** | Public API integration, loading states & fallback handling | [Repository ↗](https://github.com/kaurmoni0013/Random-Quote-Generator) • [Live Demo ↗](https://kaurmoni0013.github.io/Random-Quote-Generator/) |
+| 🌌 **Solar System** | Interactive CSS animation & orbital simulation | [Repository ↗](https://github.com/kaurmoni0013/Solar-System) • [Live Demo ↗](https://kaurmoni0013.github.io/Solar-System/) |
+| ❌ **Tic Tac Toe** | JavaScript game logic & DOM-based state management | [Repository ↗](https://github.com/kaurmoni0013/tic-tac-toe-javascript) • [Live Demo ↗](https://kaurmoni0013.github.io/tic-tac-toe-javascript/) |
+| ❤️ **Love Calculator** | JavaScript-based interactive calculator with dynamic results | [Repository ↗](https://github.com/kaurmoni0013/Love-Calculator) • [Live Demo ↗](https://kaurmoni0013.github.io/Love-Calculator/) |
+
 
 ---
 
