@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kaurmoni0013/Portfolio/main/assets/moni-cyber-avatar.png" width="165" alt="Moni Kaur - Cyber Avatar" style="border-radius: 50%; border: 3px solid #22d3ee; margin-bottom: 12px;" />
-  <br/><br/>
   <a href="https://github.com/kaurmoni0013">
     <img src="https://raw.githubusercontent.com/kaurmoni0013/Portfolio/main/assets/hero-banner.svg" alt="Moni Kaur — Full-Stack Developer Banner" width="100%" />
   </a>
@@ -10,24 +8,22 @@
   </a>
   &nbsp;
   <a href="https://kaurmoni0013.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-kaurmoni0013.github.io%2FPortfolio-080c14?style=for-the-badge&logo=googlechrome&logoColor=22d3ee&labelColor=080c14&color=1e293b" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-VIEW-080c14?style=for-the-badge&logo=googlechrome&logoColor=22d3ee&labelColor=080c14&color=1e293b" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/kaurmoni0013/">
-    <img src="https://img.shields.io/badge/LINKEDIN-kaurmoni0013-080c14?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=080c14&color=1e293b" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-080c14?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=080c14&color=1e293b" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/kaurmoni0013/">
-    <img src="https://img.shields.io/badge/LEETCODE-150%2B_Solved-080c14?style=for-the-badge&logo=leetcode&logoColor=f59e0b&labelColor=080c14&color=1e293b" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LEETCODE-150%2B_SOLVED-080c14?style=for-the-badge&logo=leetcode&logoColor=f59e0b&labelColor=080c14&color=1e293b" alt="LeetCode" />
   </a>
   <br/><br/>
   <p>
+    <a href="#-about-me"><b>⚡ About</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="#-tools--technologies"><b>🛠️ Tech Stack</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
     <a href="#-featured-projects"><b>🚀 Projects</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="#-engineering-focus"><b>⚙️ Engineering Focus</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="#-how-i-approach-engineering"><b>🧠 Approach</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="#-tech-stack"><b>🛠️ Tech Stack</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="#-currently-deepening"><b>🔭 Deepening</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
-    <a href="#-systems-im-exploring"><b>🏗️ Architecture</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
+    <a href="#-systems-im-exploring"><b>🏗️ Systems</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
     <a href="#-problem-solving"><b>🧩 DSA</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
     <a href="#-certifications--achievements"><b>🏆 Certifications</b></a> &nbsp;&nbsp;•&nbsp;&nbsp;
     <a href="#-connect"><b>🤝 Connect</b></a>
@@ -36,39 +32,75 @@
 <br/>
 ---
 <br/>
-### ⚙️ Engineering Focus
+### ⚡ About Me
+<div align="center">
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4>⚡ Backend Engineering</h4>
-      <p>Building deterministic RESTful APIs, modular service layers, and asynchronous request pipelines in Node.js and Express with structured error mapping.</p>
+    <td width="220" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/kaurmoni0013/Portfolio/main/assets/moni-cyber-avatar.png" width="180" alt="Moni Kaur - Developer" style="border-radius: 16px; border: 2px solid #22d3ee;" />
     </td>
-    <td width="50%" valign="top">
-      <h4>🔒 Authentication &amp; Security</h4>
-      <p>Implementing server-enforced RBAC, token versioning for instant JWT revocation, bcrypt password hashing, and rate-limiting guards.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🗄️ Database Architecture</h4>
-      <p>Schema design in MongoDB and SQL; partial unique indexing for race-safe booking, compound indexes, and ACID transactional writes.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ Caching &amp; Performance</h4>
-      <p>Leveraging Redis for in-memory caching, atomic token quota reservations, short-lived concurrency locks, and reducing query latency.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📡 Real-Time &amp; Streaming</h4>
-      <p>Developing Server-Sent Events (SSE) streaming architectures with client-disconnect abort handling, timeouts, and idempotent retry safety.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏗️ System Design Fundamentals</h4>
-      <p>Exploring scalable distributed architectures, CAP trade-offs, consistent hashing, Bloom filters, event messaging, and failure isolation.</p>
+    <td valign="middle" style="padding: 18px 24px;">
+      <h3>Moni Kaur</h3>
+      <p><b>Full-Stack Developer focused on Backend Engineering, Scalable APIs &amp; System Design.</b></p>
+      <p>I build deterministic web applications with strong database architecture, race-safe booking flows, and real-time streaming pipelines. Alongside full-stack engineering, I practice DSA in C++ (150+ problems solved) and study distributed systems.</p>
+      <p><i>"Understand the fundamentals, implement the system, test failure cases, then optimize the architecture."</i></p>
     </td>
   </tr>
 </table>
+</div>
+<br/>
+---
+<br/>
+### 🛠️ Tools &amp; Technologies
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kaurmoni0013/Portfolio/main/assets/tech-stack-animated.svg" alt="Animated Tech Stack & Skills" width="100%" />
+  <br/><br/>
+  <h4>💻 Programming Languages</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cpp,java,js,mysql&theme=dark" alt="Languages" />
+    </a>
+  </p>
+  <br/>
+  <h4>🎨 Frontend</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=dark" alt="Frontend" />
+    </a>
+  </p>
+  <br/>
+  <h4>⚡ Backend &amp; APIs</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark" alt="Backend" />
+    </a>
+  </p>
+  <p><code>Node.js</code> &nbsp;•&nbsp; <code>Express.js</code> &nbsp;•&nbsp; <code>REST APIs</code> &nbsp;•&nbsp; <code>JWT</code> &nbsp;•&nbsp; <code>Zod</code> &nbsp;•&nbsp; <code>SSE</code></p>
+  <br/>
+  <h4>🗄️ Database &amp; In-Memory</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark" alt="Databases" />
+    </a>
+  </p>
+  <br/>
+  <h4>🔧 DevOps &amp; Cloud</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=linux,git,github,docker,githubactions,jenkins&theme=dark" alt="DevOps" />
+    </a>
+  </p>
+  <br/>
+  <h4>🏗️ Backend &amp; System Design</h4>
+  <p>
+    <code>DSA</code> &nbsp;•&nbsp; <code>OOP</code> &nbsp;•&nbsp; <code>Caching</code> &nbsp;•&nbsp; <code>Rate Limiting</code> &nbsp;•&nbsp; <code>Bloom Filters</code> &nbsp;•&nbsp; <code>Consistent Hashing</code> &nbsp;•&nbsp; <code>Apache Kafka</code>
+  </p>
+  <br/>
+  <h4>🤖 AI &amp; APIs</h4>
+  <p>
+    <code>OpenRouter</code> &nbsp;•&nbsp; <code>Gemini API</code> &nbsp;•&nbsp; <code>Server-Sent Events (SSE)</code>
+  </p>
+</div>
 <br/>
 ---
 <br/>
@@ -77,40 +109,9 @@
   <img src="https://raw.githubusercontent.com/kaurmoni0013/Portfolio/main/assets/engineering-flow.svg" alt="Engineering Flow: Scope -> Design -> Build -> Test -> Optimize -> Deploy" width="100%" />
 </div>
 <br/>
-> *"I prefer learning by building: understand the fundamentals, implement the system, test failure cases, then improve the architecture."*
 * **Failure Modes First**: I model systems around what happens when connections drop, inputs conflict, or services lock.
 * **Invariants over Assumptions**: Critical rules (slot collisions, access rights, quota limits) are strictly enforced at the database and middleware levels.
 * **Continuous Verification**: APIs are accompanied by end-to-end test suites to ensure edge cases remain guarded across refactors.
-<br/>
----
-<br/>
-### 🛠️ Tech Stack
-<table>
-  <tr>
-    <td width="22%"><b>Languages</b></td>
-    <td><code>C++</code> (Primary for DSA) &nbsp;•&nbsp; <code>Java</code> (OOP) &nbsp;•&nbsp; <code>JavaScript (ES6+)</code> &nbsp;•&nbsp; <code>SQL</code></td>
-  </tr>
-  <tr>
-    <td width="22%"><b>Backend &amp; APIs</b></td>
-    <td><code>Node.js</code> &nbsp;•&nbsp; <code>Express.js</code> &nbsp;•&nbsp; <code>REST APIs</code> &nbsp;•&nbsp; <code>Server-Sent Events (SSE)</code> &nbsp;•&nbsp; <code>JWT / RBAC</code></td>
-  </tr>
-  <tr>
-    <td width="22%"><b>Databases &amp; Cache</b></td>
-    <td><code>MongoDB</code> (Indexes &amp; Transactions) &nbsp;•&nbsp; <code>MySQL</code> &nbsp;•&nbsp; <code>Redis</code> (Locks &amp; Quotas)</td>
-  </tr>
-  <tr>
-    <td width="22%"><b>Frontend &amp; UI</b></td>
-    <td><code>React</code> &nbsp;•&nbsp; <code>HTML5</code> &nbsp;•&nbsp; <code>CSS3</code> &nbsp;•&nbsp; <code>Tailwind CSS</code> &nbsp;•&nbsp; <code>Vite</code></td>
-  </tr>
-  <tr>
-    <td width="22%"><b>Tools &amp; DevOps</b></td>
-    <td><code>Git</code> &nbsp;•&nbsp; <code>GitHub Actions (CI/CD)</code> &nbsp;•&nbsp; <code>Docker</code> &nbsp;•&nbsp; <code>Linux / Bash</code> &nbsp;•&nbsp; <code>Postman</code> &nbsp;•&nbsp; <code>VS Code</code></td>
-  </tr>
-  <tr>
-    <td width="22%"><b>CS Foundations</b></td>
-    <td><code>Data Structures &amp; Algorithms</code> &nbsp;•&nbsp; <code>OOP</code> &nbsp;•&nbsp; <code>DBMS</code> &nbsp;•&nbsp; <code>Operating Systems</code> &nbsp;•&nbsp; <code>Computer Networks</code></td>
-  </tr>
-</table>
 <br/>
 ---
 <br/>
@@ -119,11 +120,9 @@
   <img src="https://raw.githubusercontent.com/kaurmoni0013/Portfolio/main/assets/roadmap.svg" alt="Engineering Roadmap: Core Backend -> In-Memory -> Event-Driven -> Distributed Primitives -> Scalable Systems" width="100%" />
 </div>
 <br/>
-To progress from monolithic full-stack applications toward high-throughput, resilient architectures, I am systematically deepening my expertise in:
-* **Event-Driven Architecture &amp; Message Brokers**: Apache Kafka, pub/sub streaming patterns, consumer group mechanics, and message ordering.
-* **Distributed System Primitives**: Consistent hashing algorithms, Bloom filters for probabilistic membership, and distributed locks.
-* **System Scalability &amp; Reliability**: Database sharding strategies, replication lag mitigation, cache invalidation policies, and CAP theorem trade-offs.
-* **Production CI/CD &amp; Infrastructure**: Containerized workflows with Docker Compose, automated testing pipelines, and environment isolation.
+* **Event-Driven Architecture**: Apache Kafka, pub/sub streaming patterns, and consumer groups.
+* **Distributed Primitives**: Consistent hashing, Bloom filters, and distributed locks.
+* **System Scalability**: Database sharding, replication lag mitigation, and CAP theorem trade-offs.
 <br/>
 ---
 <br/>
@@ -138,9 +137,9 @@ STACK: React • Node.js • Express.js • MongoDB • JWT • RBAC • Rate Li
 
 
 * **Race-Safe Slot Booking**: Eliminates double-booking by re-verifying availability inside an isolated transaction and enforcing a partial unique index on `(doctor, date, startTime)` scoped to active statuses.
-* **Derived Queue Architecture**: Patient queue positions and estimated wait times are derived dynamically from real-time appointment records on read, preventing state drift.
-* **Dual-Layer RBAC &amp; Token Revocation**: Route access is verified on the client and enforced strictly by server middleware. Signing out increments a per-user token version in the database, instantly invalidating all existing JWT sessions.
-* **Security &amp; Automated Verification**: Hardened with Helmet, Bcrypt password hashing, rate limiting, and an automated **67-check end-to-end API test suite** covering auth, status transitions, role boundaries, and conflict edge cases.
+* **Derived Queue Architecture**: Patient queue positions and estimated wait times are derived dynamically from real-time appointment records on read.
+* **Dual-Layer RBAC &amp; Token Revocation**: Route access is verified on the client and enforced strictly by server middleware. Signing out increments a per-user token version in the database, invalidating all issued JWT sessions.
+* **Automated Verification**: Hardened with Helmet, Bcrypt password hashing, rate limiting, and an automated **67-check end-to-end API test suite**.
 <br/>
 ---
 <br/>
@@ -153,39 +152,39 @@ STACK: React • Node.js • Express.js • MongoDB • Redis • OpenRouter API
 
 
 
-* **Resilient SSE Streaming**: Implements real-time token streaming over Server-Sent Events equipped with first-byte timeouts, idle watchdogs, bounded retries on transient upstream drops, and automatic cancellation when clients disconnect.
-* **Atomic Quota Reservation**: Redis reserves estimated token usage windows prior to dispatching upstream requests and reconciles exact usage post-stream; reservations auto-release on failure to prevent duplicate billing.
-* **Idempotency &amp; Concurrency Control**: Uses idempotency keys to replay completed responses on network retry without re-billing. Short-lived Redis locks prevent duplicate context summarization jobs.
-* **Transactional Persistence**: Message pairs and user quota updates are committed atomically within a single MongoDB transaction upon successful stream termination.
+* **Resilient SSE Streaming**: Implements real-time token streaming over Server-Sent Events with timeouts, bounded retries on upstream drops, and automatic cancellation on disconnect.
+* **Atomic Quota Reservation**: Redis reserves estimated token windows before dispatching upstream requests and reconciles exact usage post-stream.
+* **Idempotency &amp; Concurrency**: Uses idempotency keys to replay completed responses without re-billing. Short-lived Redis locks prevent duplicate summarization.
+* **Transactional Persistence**: Messages and user quota updates are committed atomically within a single MongoDB transaction upon stream completion.
 <br/>
 ---
 <br/>
-#### 📦 Other Engineering &amp; Practice Projects
+#### 📦 Other Engineering Projects
 <table>
   <tr>
-    <th width="28%">Project</th>
-    <th width="42%">Engineering Focus</th>
-    <th width="30%">Stack &amp; Links</th>
+    <th width="30%">Project</th>
+    <th width="45%">Engineering Focus</th>
+    <th width="25%">Links</th>
   </tr>
   <tr>
     <td><b>Snake Game (C++)</b></td>
-    <td>Console-based game loop with real-time collision detection, speed progression algorithm, and persistent file I/O for high score records.</td>
-    <td><code>C++</code><br/><a href="https://github.com/kaurmoni0013/snake-game-cpp">Repository ↗</a></td>
+    <td>Console-based game loop with real-time collision detection and persistent file I/O for high scores.</td>
+    <td><a href="https://github.com/kaurmoni0013/snake-game-cpp">Repository ↗</a></td>
   </tr>
   <tr>
     <td><b>Random Quote Generator</b></td>
-    <td>Asynchronous public API integration engineered with error boundary handling, network loading states, and fallback mechanics.</td>
-    <td><code>HTML</code> • <code>CSS</code> • <code>JavaScript</code><br/><a href="https://github.com/kaurmoni0013/Random-Quote-Generator">Repository ↗</a> &nbsp;|&nbsp; <a href="https://kaurmoni0013.github.io/Random-Quote-Generator/">Live Demo ↗</a></td>
+    <td>Public API integration with error boundaries, network loading states, and fallback mechanics.</td>
+    <td><a href="https://github.com/kaurmoni0013/Random-Quote-Generator">Repository ↗</a> &nbsp;|&nbsp; <a href="https://kaurmoni0013.github.io/Random-Quote-Generator/">Demo ↗</a></td>
   </tr>
   <tr>
     <td><b>Solar System Model</b></td>
-    <td>Interactive mechanical simulation utilizing layered CSS keyframe transforms, elliptical planetary orbit calculations, and responsive viewports.</td>
-    <td><code>HTML</code> • <code>CSS</code> • <code>JavaScript</code><br/><a href="https://github.com/kaurmoni0013/Solar-System">Repository ↗</a> &nbsp;|&nbsp; <a href="https://kaurmoni0013.github.io/Solar-System/">Live Demo ↗</a></td>
+    <td>Interactive simulation utilizing layered CSS keyframe transforms and orbital calculations.</td>
+    <td><a href="https://github.com/kaurmoni0013/Solar-System">Repository ↗</a> &nbsp;|&nbsp; <a href="https://kaurmoni0013.github.io/Solar-System/">Demo ↗</a></td>
   </tr>
   <tr>
     <td><b>Tic Tac Toe</b></td>
-    <td>Two-player deterministic board state machine with win condition matrices, draw evaluation, and DOM event listeners without framework overhead.</td>
-    <td><code>HTML</code> • <code>CSS</code> • <code>JavaScript</code><br/><a href="https://github.com/kaurmoni0013/tic-tac-toe-javascript">Repository ↗</a> &nbsp;|&nbsp; <a href="https://kaurmoni0013.github.io/tic-tac-toe-javascript/">Live Demo ↗</a></td>
+    <td>Two-player deterministic board state machine with win condition matrices and DOM events.</td>
+    <td><a href="https://github.com/kaurmoni0013/tic-tac-toe-javascript">Repository ↗</a> &nbsp;|&nbsp; <a href="https://kaurmoni0013.github.io/tic-tac-toe-javascript/">Demo ↗</a></td>
   </tr>
 </table>
 <br/>
@@ -196,41 +195,23 @@ STACK: React • Node.js • Express.js • MongoDB • Redis • OpenRouter API
   <img src="https://raw.githubusercontent.com/kaurmoni0013/Portfolio/main/assets/architecture-diagram.svg" alt="Distributed System Architecture Flow Diagram" width="100%" />
 </div>
 <br/>
-[ Client (SPA / SSE Stream) ] │ (HTTP / WebSocket / SSE) ▼ [ API Gateway & Rate Limiter ] ───▶ [ Token Bucket / Sliding Window ] │ (Scoped Routing) ▼ [ Auth & Security Layer ] ────────▶ [ JWT Verification & Token Version Check ] │ (Authenticated Context) ▼ [ Core Backend Services ] ──────┬─▶ [ Cache / Redis ] ── (In-Memory Hit / Distributed Lock) ├─▶ [ Database / MongoDB & MySQL ] ── (ACID Transactions / Indexes) └─▶ [ Event Stream / Kafka ] ──▶ [ Async Worker Fleet ]
-
-
-
-<br/>
 ---
 <br/>
 ### 🧩 Problem Solving &amp; DSA
-PRIMARY LANGUAGE : C++ PROBLEMS SOLVED : 150+ CORE STRENGTHS : Arrays, Two Pointers, Monotonic Stacks, Sliding Window, Hashing, Recursion
+<div align="center">
+PRIMARY LANGUAGE : C++ • PROBLEMS SOLVED : 150+ TOPICS : Arrays, Two Pointers, Monotonic Stacks, Sliding Window, Hashing, Recursion
 
 
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <h4>LeetCode</h4>
-      <p><b>150+ DSA Solutions</b></p>
-      <a href="https://leetcode.com/u/kaurmoni0013/">
-        <img src="https://img.shields.io/badge/LEETCODE-kaurmoni0013-080c14?style=for-the-badge&logo=leetcode&logoColor=f59e0b&labelColor=080c14&color=1e293b" alt="LeetCode Profile" />
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <h4>GeeksforGeeks</h4>
-      <p><b>Core Practice &amp; Contests</b></p>
-      <a href="https://www.geeksforgeeks.org/user/kaurmoni0013/">
-        <img src="https://img.shields.io/badge/GEEKSFORGEEKS-kaurmoni0013-080c14?style=for-the-badge&logo=geeksforgeeks&logoColor=22c55e&labelColor=080c14&color=1e293b" alt="GFG Profile" />
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <h4>Key Topic Focus</h4>
-      <p><b>Algorithmic Patterns</b></p>
-      <sub>Prefix Sums • Hash Maps • Stacks • Queues • Binary Search • Bit Manipulation • Trees &amp; DP</sub>
-    </td>
-  </tr>
-</table>
+<br/>
+<a href="https://leetcode.com/u/kaurmoni0013/">
+  <img src="https://img.shields.io/badge/LEETCODE-150%2B_SOLVED-080c14?style=for-the-badge&logo=leetcode&logoColor=f59e0b&labelColor=080c14&color=1e293b" alt="LeetCode" />
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/user/kaurmoni0013/">
+  <img src="https://img.shields.io/badge/GEEKSFORGEEKS-kaurmoni0013-080c14?style=for-the-badge&logo=geeksforgeeks&logoColor=22c55e&labelColor=080c14&color=1e293b" alt="GeeksforGeeks" />
+</a>
+</div>
 <br/>
 ---
 <br/>
@@ -243,23 +224,23 @@ PRIMARY LANGUAGE : C++ PROBLEMS SOLVED : 150+ CORE STRENGTHS : Arrays, Two Point
   </tr>
   <tr>
     <td><b>Programming in Modern C++</b></td>
-    <td>NPTEL (12-Week Intensive Course)</td>
-    <td><code>Elite</code> (ID: NPTEL25CS144)</td>
+    <td>NPTEL (12 Weeks)</td>
+    <td><code>Elite</code> (NPTEL25CS144)</td>
   </tr>
   <tr>
     <td><b>Programming in Java</b></td>
-    <td>NPTEL (12-Week Intensive Course)</td>
-    <td><code>Silver</code> (ID: NPTEL26CS36S)</td>
+    <td>NPTEL (12 Weeks)</td>
+    <td><code>Silver</code> (NPTEL26CS36S)</td>
   </tr>
   <tr>
     <td><b>Fundamentals of Object Oriented Programming</b></td>
-    <td>NPTEL (12-Week Intensive Course)</td>
-    <td><code>Silver</code> (ID: NPTEL26CS87S)</td>
+    <td>NPTEL (12 Weeks)</td>
+    <td><code>Silver</code> (NPTEL26CS87S)</td>
   </tr>
   <tr>
     <td><b>Data Structures &amp; Algorithms Design</b></td>
-    <td>NPTEL (12-Week Intensive Course)</td>
-    <td><code>Completed</code> (ID: NPTEL25CS81S)</td>
+    <td>NPTEL (12 Weeks)</td>
+    <td><code>Completed</code> (NPTEL25CS81S)</td>
   </tr>
   <tr>
     <td><b>HackNexus 2026</b></td>
@@ -282,9 +263,7 @@ PRIMARY LANGUAGE : C++ PROBLEMS SOLVED : 150+ CORE STRENGTHS : Arrays, Two Point
 <br/>
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaurmoni0013&show_icons=true&theme=tokyonight&bg_color=080c14&title_color=22d3ee&text_color=94a3b8&icon_color=38bdf8&border_color=1e293b&hide_border=false" alt="Moni Kaur's GitHub Stats" height="155" />
-  &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaurmoni0013&layout=compact&theme=tokyonight&bg_color=080c14&title_color=22d3ee&text_color=94a3b8&border_color=1e293b&hide_border=false" alt="Moni Kaur's Top Languages" height="155" />
+  <img src="https://raw.githubusercontent.com/kaurmoni0013/Portfolio/main/assets/github-stats.svg" alt="Moni Kaur GitHub Activity & Metrics" width="100%" />
 </div>
 <br/>
 ---
@@ -315,7 +294,7 @@ PRIMARY LANGUAGE : C++ PROBLEMS SOLVED : 150+ CORE STRENGTHS : Arrays, Two Point
     <td align="center" width="25%">
       <a href="https://kaurmoni0013.github.io/Portfolio/">
         <img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=080c14" alt="Portfolio" /><br/>
-        <sub><b>Live Portfolio Website</b></sub>
+        <sub><b>Live Portfolio</b></sub>
       </a>
     </td>
     <td align="center" width="25%">
