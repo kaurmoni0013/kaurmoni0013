@@ -1,32 +1,35 @@
-<!-- ================================================================= -->
-<!-- MONI KAUR // GITHUB PROFILE README                               -->
-<!-- Full-Stack Developer • Backend Engineering • System Design • DSA -->
-<!-- ================================================================= -->
 <div align="center">
 <a href="https://github.com/kaurmoni0013">
-  <img src="./assets/hero-banner.svg" alt="Moni Kaur — Full-Stack Developer Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/kaurmoni0013/Portfolio/main/assets/hero-banner.svg" alt="Moni Kaur — Full-Stack Developer Banner" width="100%" />
+</a>
+<br/>
+<a href="https://kaurmoni0013.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-kaurmoni0013.github.io%2FPortfolio-080c14?style=for-the-badge&logo=googlechrome&logoColor=22d3ee&labelColor=080c14&color=1e293b" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/kaurmoni0013/">
+  <img src="https://img.shields.io/badge/LINKEDIN-kaurmoni0013-080c14?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=080c14&color=1e293b" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/kaurmoni0013/">
+  <img src="https://img.shields.io/badge/LEETCODE-150%2B_Solved-080c14?style=for-the-badge&logo=leetcode&logoColor=f59e0b&labelColor=080c14&color=1e293b" alt="LeetCode" />
+</a>
+&nbsp;
+<a href="mailto:kaurmoni0013@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-kaurmoni0013%40gmail.com-080c14?style=for-the-badge&logo=gmail&logoColor=ef4444&labelColor=080c14&color=1e293b" alt="Email" />
 </a>
 <br/><br/>
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-kaurmoni0013.github.io%2FPortfolio-080c14?style=for-the-badge&logo=googlechrome&logoColor=22d3ee&labelColor=080c14&color=1e293b)](https://kaurmoni0013.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-kaurmoni0013-080c14?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=080c14&color=1e293b)](https://www.linkedin.com/in/kaurmoni0013/)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-150%2B_Solved-080c14?style=for-the-badge&logo=leetcode&logoColor=f59e0b&labelColor=080c14&color=1e293b)](https://leetcode.com/u/kaurmoni0013/)
-[![Email](https://img.shields.io/badge/EMAIL-kaurmoni0013%40gmail.com-080c14?style=for-the-badge&logo=gmail&logoColor=ef4444&labelColor=080c14&color=1e293b)](mailto:kaurmoni0013@gmail.com)
-<br/>
-[ 🚀 Featured Projects ] • [ ⚙️ Engineering Focus ] • [ 🏗️ Systems Design ] • [ 🧩 DSA ] • [ 🏆 Certifications ] • [ 🤝 Connect ]
-
-
-
-<sub>
-<a href="#-featured-projects">Projects</a> &nbsp;•&nbsp;
-<a href="#-engineering-focus">Engineering Focus</a> &nbsp;•&nbsp;
-<a href="#-how-i-approach-engineering">Approach</a> &nbsp;•&nbsp;
-<a href="#-tech-stack">Tech Stack</a> &nbsp;•&nbsp;
-<a href="#-currently-deepening">Deepening</a> &nbsp;•&nbsp;
-<a href="#-systems-im-exploring">Architecture</a> &nbsp;•&nbsp;
-<a href="#-problem-solving">Problem Solving</a> &nbsp;•&nbsp;
-<a href="#-certifications--achievements">Certifications</a> &nbsp;•&nbsp;
-<a href="#-connect">Connect</a>
-</sub>
+<p>
+  <a href="#-featured-projects"><b>🚀 Projects</b></a> &nbsp;•&nbsp;
+  <a href="#-engineering-focus"><b>⚙️ Engineering Focus</b></a> &nbsp;•&nbsp;
+  <a href="#-how-i-approach-engineering"><b>🧠 Approach</b></a> &nbsp;•&nbsp;
+  <a href="#-tech-stack"><b>🛠️ Tech Stack</b></a> &nbsp;•&nbsp;
+  <a href="#-currently-deepening"><b>🔭 Deepening</b></a> &nbsp;•&nbsp;
+  <a href="#-systems-im-exploring"><b>🏗️ Architecture</b></a> &nbsp;•&nbsp;
+  <a href="#-problem-solving"><b>🧩 DSA</b></a> &nbsp;•&nbsp;
+  <a href="#-certifications--achievements"><b>🏆 Certifications</b></a> &nbsp;•&nbsp;
+  <a href="#-connect"><b>🤝 Connect</b></a>
+</p>
 </div>
 ---
 ### ⚙️ Engineering Focus
@@ -65,7 +68,7 @@
 ---
 ### 🧠 How I Approach Engineering
 <div align="center">
-  <img src="./assets/engineering-flow.svg" alt="Engineering Flow: Understand -> Design -> Build -> Test -> Optimize -> Deploy" width="100%" />
+  <img src="https://raw.githubusercontent.com/kaurmoni0013/Portfolio/main/assets/engineering-flow.svg" alt="Engineering Flow: Understand -> Design -> Build -> Test -> Optimize -> Deploy" width="100%" />
 </div>
 <br/>
 > *"I prefer learning by building: understand the fundamentals, implement the system, test failure cases, then improve the architecture."*
@@ -103,7 +106,7 @@
 ---
 ### 🔭 Currently Deepening
 <div align="center">
-  <img src="./assets/roadmap.svg" alt="Engineering Roadmap: Core Backend -> In-Memory -> Event-Driven -> Distributed Primitives -> Scalable Systems" width="100%" />
+  <img src="https://raw.githubusercontent.com/kaurmoni0013/Portfolio/main/assets/roadmap.svg" alt="Engineering Roadmap: Core Backend -> In-Memory -> Event-Driven -> Distributed Primitives -> Scalable Systems" width="100%" />
 </div>
 <br/>
 To progress from monolithic full-stack applications toward high-throughput, resilient architectures, I am systematically deepening my expertise in:
@@ -115,7 +118,7 @@ To progress from monolithic full-stack applications toward high-throughput, resi
 ### 🚀 Featured Projects
 #### 01. MediQueue — Clinic Appointment &amp; Queue Management System
 <div align="center">
-  <img src="./assets/project-mediqueue.svg" alt="MediQueue Project Architecture" width="100%" />
+  <img src="https://raw.githubusercontent.com/kaurmoni0013/Portfolio/main/assets/project-mediqueue.svg" alt="MediQueue Project Architecture" width="100%" />
 </div>
 STACK: React • Node.js • Express.js • MongoDB • JWT • RBAC • Rate Limiter • Vite LINKS: [ 📦 GitHub Repository: github.com/kaurmoni0013/MediQueue ] • [ 🌐 Live Demo: mediqueue-1cu4.onrender.com ]
 
@@ -128,7 +131,7 @@ STACK: React • Node.js • Express.js • MongoDB • JWT • RBAC • Rate Li
 ---
 #### 02. Orbit AI — Full-Stack AI Conversation Workspace
 <div align="center">
-  <img src="./assets/project-orbit.svg" alt="Orbit AI Project Architecture" width="100%" />
+  <img src="https://raw.githubusercontent.com/kaurmoni0013/Portfolio/main/assets/project-orbit.svg" alt="Orbit AI Project Architecture" width="100%" />
 </div>
 STACK: React • Node.js • Express.js • MongoDB • Redis • OpenRouter API • Server-Sent Events (SSE) • Docker LINKS: [ 📦 GitHub Repository: github.com/kaurmoni0013/Orbit-AI ] • [ 🌐 Live Demo: orbit-ai-k1m5.onrender.com ]
 
@@ -170,7 +173,7 @@ STACK: React • Node.js • Express.js • MongoDB • Redis • OpenRouter API
 ---
 ### 🏗️ Systems I'm Exploring
 <div align="center">
-  <img src="./assets/architecture-diagram.svg" alt="Distributed System Architecture Flow Diagram" width="100%" />
+  <img src="https://raw.githubusercontent.com/kaurmoni0013/Portfolio/main/assets/architecture-diagram.svg" alt="Distributed System Architecture Flow Diagram" width="100%" />
 </div>
 <br/>
 [ Client (SPA / SSE Stream) ] │ (HTTP / WebSocket / SSE) ▼ [ API Gateway & Rate Limiter ] ───▶ [ Token Bucket / Sliding Window ] │ (Scoped Routing) ▼ [ Auth & Security Layer ] ────────▶ [ JWT Verification & Token Version Check ] │ (Authenticated Context) ▼ [ Core Backend Services ] ──────┬─▶ [ Cache / Redis ] ── (In-Memory Hit / Distributed Lock) ├─▶ [ Database / MongoDB & MySQL ] ── (ACID Transactions / Indexes) └─▶ [ Event Stream / Kafka ] ──▶ [ Async Worker Fleet ]
@@ -260,7 +263,7 @@ PRIMARY LANGUAGE : C++ PROBLEMS SOLVED : 150+ CORE STRENGTHS : Arrays, Two Point
 ---
 ### 💻 Developer Terminal
 <div align="center">
-  <img src="./assets/terminal.svg" alt="Developer Terminal Session" width="100%" />
+  <img src="https://raw.githubusercontent.com/kaurmoni0013/Portfolio/main/assets/terminal.svg" alt="Developer Terminal Session" width="100%" />
 </div>
 ---
 ### 🤝 Connect &amp; Collaborate
@@ -296,5 +299,5 @@ PRIMARY LANGUAGE : C++ PROBLEMS SOLVED : 150+ CORE STRENGTHS : Arrays, Two Point
 </div>
 <br/>
 <div align="center">
-  <img src="./assets/footer.svg" alt="Footer Status Pulse" width="100%" />
+  <img src="https://raw.githubusercontent.com/kaurmoni0013/Portfolio/main/assets/footer.svg" alt="Footer Status Pulse" width="100%" />
 </div>
