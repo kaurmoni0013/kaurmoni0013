@@ -18,17 +18,15 @@
 
 <table>
   <tr>
-    <td width="72%" valign="middle">
+    <td width="62%" valign="middle">
       <h2>Hi, I'm Moni.</h2>
       <p><strong>Full-stack developer focused on backend engineering and system design.</strong></p>
       <p>I build real-world applications with React, Node.js, MongoDB, and Redis. I care about what happens beyond the happy path: safe concurrent writes, clear authorization, recoverable failures, and tests that exercise the rules a product depends on.</p>
       <p>B.Tech Computer Science &amp; AI · Class of 2028 · CGPA 9.4/10</p>
       <p><a href="https://github.com/kaurmoni0013">GitHub</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/kaurmoni0013/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://kaurmoni0013.github.io/Portfolio/">Portfolio</a></p>
     </td>
-    <td width="28%" align="center" valign="middle">
-      <img src="./assets/moni-portrait.png" alt="AI-generated character illustration selected for Moni Kaur's developer profile; this is an illustration, not a photograph" width="230" />
-      <br />
-      <sub>Illustrated profile art · AI-generated</sub>
+    <td width="38%" align="center" valign="middle">
+      <img src="./assets/moni-portrait.jpg" alt="Full character illustration used as Moni Kaur's profile image" width="320" />
     </td>
   </tr>
 </table>
