@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" fill="none">
+  <defs>
+    <linearGradient id="background" x1="76" y1="18" x2="1118" y2="316" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#11152B"/>
+      <stop offset=".52" stop-color="#17172F"/>
+      <stop offset="1" stop-color="#24143D"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="83" y1="95" x2="542" y2="256" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#90A4FF"/>
+      <stop offset="1" stop-color="#CE92FF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(310 205 -182 276 1013 75)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7746C8" stop-opacity=".38"/>
+      <stop offset="1" stop-color="#7746C8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#C9C2FF" stroke-opacity=".055"/>
+    </pattern>
+    <clipPath id="clip">
+      <rect width="1200" height="330" rx="28"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="330" fill="url(#background)"/>
+    <rect width="1200" height="330" fill="url(#glow)"/>
+    <rect width="1200" height="330" fill="url(#grid)"/>
+    <circle cx="1000" cy="167" r="151" stroke="#BBA6FF" stroke-opacity=".13"/>
+    <circle cx="1000" cy="167" r="113" stroke="#BBA6FF" stroke-opacity=".19"/>
+    <circle cx="1000" cy="167" r="76" stroke="#BBA6FF" stroke-opacity=".25"/>
+    <path d="M869 246c69-101 178-152 313-152" stroke="url(#accent)" stroke-opacity=".7" stroke-width="1.5"/>
+    <circle cx="916" cy="114" r="4" fill="#9FB0FF"/>
+    <circle cx="1063" cy="238" r="5" fill="#D29CFF"/>
+    <circle cx="1092" cy="88" r="3" fill="#9FB0FF"/>
+    <rect x="82" y="63" width="174" height="29" rx="14.5" fill="#FFFFFF" fill-opacity=".07" stroke="#FFFFFF" stroke-opacity=".12"/>
+    <circle cx="101" cy="77.5" r="4" fill="#8FE3CC"/>
+    <text x="115" y="82" fill="#C6C8E4" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.8">HELLO, I'M MONI</text>
+    <text x="78" y="164" fill="#F6F5FF" font-family="Segoe UI, Arial, sans-serif" font-size="59" font-weight="700" letter-spacing="-2.2">Moni Kaur</text>
+    <rect x="83" y="191" width="52" height="3" rx="1.5" fill="url(#accent)"/>
+    <text x="82" y="226" fill="#D3D3EA" font-family="Segoe UI, Arial, sans-serif" font-size="18">Computer Science &amp; AI  /  Class of 2028</text>
+    <text x="82" y="261" fill="#A7A8C6" font-family="Segoe UI, Arial, sans-serif" font-size="15">Thoughtful products. Reliable systems. Always learning.</text>
+    <g transform="translate(977 143)">
+      <rect width="46" height="46" rx="14" fill="#FFFFFF" fill-opacity=".07" stroke="#D2C6FF" stroke-opacity=".26"/>
+      <path d="m17 16-7 7 7 7m12-14 7 7-7 7m-5-17-5 20" stroke="url(#accent)" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>
